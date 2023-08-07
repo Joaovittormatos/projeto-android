@@ -50,7 +50,7 @@ header > h1 {
     font-size: 44px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: -10px;
+    margin-bottom: -17px;
     font-weight: lighter;
     min-width: 320px;
 }
@@ -61,7 +61,7 @@ header > p {
     color: white;
     font-size: 17px;
     max-width: 600px;
-    min-width: 320px;
+    min-width: 319px;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
